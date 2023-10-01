@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Entrypoint")
+	fmt.Println("Entrypoint!")
 	network.Ping("127.0.0.1")
 }
